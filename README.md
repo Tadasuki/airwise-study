@@ -2,6 +2,8 @@
 
 大气污染控制工程课程学习网站。
 
+在线地址：https://airwise-study.sionstar726.workers.dev
+
 ## 内容
 
 - 分章节学习与知识图谱

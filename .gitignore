@@ -18,3 +18,7 @@ vite.config.d.ts
 .env.*
 !.env.example
 
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
