@@ -1,0 +1,20 @@
+node_modules/
+dist/
+
+# Course source materials and extraction workspace
+资料/
+references/
+scratch/
+scripts/
+study_plan.md
+study_progress.md
+
+# Local and generated files
+.DS_Store
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+.env
+.env.*
+!.env.example
+
